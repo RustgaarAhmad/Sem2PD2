@@ -1,0 +1,7 @@
+E:\UET SEMS 2\OOP\week4\P2P3\P2P3\obj\Debug\P2P3.csproj.AssemblyReference.cache
+E:\UET SEMS 2\OOP\week4\P2P3\P2P3\obj\Debug\P2P3.csproj.CoreCompileInputs.cache
+E:\UET SEMS 2\OOP\week4\P2P3\P2P3\bin\Debug\P2P3.exe.config
+E:\UET SEMS 2\OOP\week4\P2P3\P2P3\bin\Debug\P2P3.exe
+E:\UET SEMS 2\OOP\week4\P2P3\P2P3\bin\Debug\P2P3.pdb
+E:\UET SEMS 2\OOP\week4\P2P3\P2P3\obj\Debug\P2P3.exe
+E:\UET SEMS 2\OOP\week4\P2P3\P2P3\obj\Debug\P2P3.pdb

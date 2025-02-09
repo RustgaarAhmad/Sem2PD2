@@ -1,0 +1,7 @@
+E:\UET SEMS 2\OOP\week4\P1\P1\bin\Debug\P1.exe.config
+E:\UET SEMS 2\OOP\week4\P1\P1\bin\Debug\P1.exe
+E:\UET SEMS 2\OOP\week4\P1\P1\bin\Debug\P1.pdb
+E:\UET SEMS 2\OOP\week4\P1\P1\obj\Debug\P1.csproj.AssemblyReference.cache
+E:\UET SEMS 2\OOP\week4\P1\P1\obj\Debug\P1.csproj.CoreCompileInputs.cache
+E:\UET SEMS 2\OOP\week4\P1\P1\obj\Debug\P1.exe
+E:\UET SEMS 2\OOP\week4\P1\P1\obj\Debug\P1.pdb
