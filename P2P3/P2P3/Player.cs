@@ -109,7 +109,7 @@ namespace P2P3
             }
             else
             {
-                double targetHealthPercentage = (target.Maxhp > 0) ? (target.hp / target.Maxhp) * 100 : 0; // ✅ Prevent division by zero
+                double targetHealthPercentage = (target.Maxhp > 0) ? (target.hp / target.Maxhp) * 100 : 0; 
                 statement += $" {target.name} is at {targetHealthPercentage:F2}% health.";
             }
 
